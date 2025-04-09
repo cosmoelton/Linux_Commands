@@ -18,10 +18,9 @@ O comando “cd” é utilizado para navegar entre diretórios
 $ ls – list directory
 O comando “ls” é utilizado para mostrar arquivos e diretórios existentes no seu disco, bem como suas propriedades.
 
+###### Comando mkdir
+O “mkdir” se trata de um comando de terminal utilizado para criar um diretório/pasta
 
-
-       Documentação completa: <https://www.gnu.org/software/coreutils/mv>
-       ou disponível localmente via: info '(coreutils) mv invocation'
-
-
+###### Comando rm – remove
+O comando “rm” é utilizado para remover um arquivo ou um diretório. Para remover um diretório, o comando deve ser acompanhado do -r para ele realizar uma remoção recursiva (rm -r nomedodiretório).
 
