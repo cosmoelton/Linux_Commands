@@ -1,4 +1,4 @@
-# 🚀 Linux_Commands
+# 🚀 Linux Command Line Interface
 
 ##  Sobre mim: 
 #### Meu nome é Cosmo Elton, seu sou profissional de tecnologica atuando na aréa de suporte, Sysadmin em sistema LINUX, tentando evoluir para Cloud, Devops Enginee e Desenvolvimento.
