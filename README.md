@@ -12,9 +12,9 @@
 
 Vou postar uns comandos os que mais utilizado do meu dia dia, em Linux para ajudar outros Sysadmin, pois vejo que muitas pessoas tem dificuldade em sistemas UNIX, caso alguém use um comando que não está na lista pode comentar,servirá pra troca de ideias.
 
-| Comandos     | Descrição         | Descrição                                   |
-| :----------- | :---------------- | :------------------------------------------ |
-| `cd`         | `change director`O comando “cd” é utilizado para navegar entre diretórios | **Obrigatório**. O ID do item que você quer |
+| Comandos UNIX      |     Descrição       |              Descrição                      |
+| :-------------     | :------------------ | :------------------------------------------ |
+|   `cd`             | `change director`O comando “cd” é utilizado para <br> navegar entre diretórios | **Obrigatório**. O ID do item que você quer |
 
 #### Comando cd
 
