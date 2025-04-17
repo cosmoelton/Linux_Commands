@@ -8,7 +8,10 @@
 
 Vou postar uns comandos os que mais utilizado do meu dia dia, em Linux para ajudar outros Sysadmin, pois vejo que muitas pessoas tem dificuldade em sistemas UNIX, caso alguém use um comando que não está na lista pode comentar,servirá pra troca de ideias.
 
-###### Comando cd
+| Comandos     | Descrição         | Descrição                                   |
+| :----------- | :---------------- | :------------------------------------------ |
+| `cd`         | `change director`O comando “cd” é utilizado para navegar entre diretórios | **Obrigatório**. O ID do item que você quer |
+#### Comando cd
 
 $ cd: significa "change directory"
 
