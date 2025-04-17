@@ -10,7 +10,7 @@ Vou postar uns comandos os que mais utilizado do meu dia dia, em Linux para ajud
 
 ###### Comando cd
 
-$ cd – change directory
+$ cd: significa "change directory"
 
 O comando “cd” é utilizado para navegar entre diretórios
 
