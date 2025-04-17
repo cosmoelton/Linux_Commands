@@ -7,7 +7,7 @@
 ##### Vamos fazer network? Conecte-se...
 ##### Shall we network? Contact.
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/cosmo-elton-a1a71439/)
 
 
 Vou postar uns comandos os que mais utilizado do meu dia dia, em Linux para ajudar outros Sysadmin, pois vejo que muitas pessoas tem dificuldade em sistemas UNIX, caso alguém use um comando que não está na lista pode comentar,servirá pra troca de ideias.
