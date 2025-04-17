@@ -14,7 +14,7 @@ Vou postar uns comandos os que mais utilizado do meu dia dia, em Linux para ajud
 
 | Comandos UNIX      |     Descrição       |              
 | :-------------     | :------------------ |
-|   `cd`             | `change director O comando “cd” é utilizado para navegar` <br> `entre diretórios` |
+|   `cd`             | `change director O comando “cd” é utilizado para `<br>` navegar `entre diretórios` |
 
 #### Comando cd
 
