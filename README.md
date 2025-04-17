@@ -7,7 +7,6 @@
 ##### Vamos fazer network? Conecte-se...
 ##### Shall we network? Contact.
 ## 🔗 Links
-## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 
